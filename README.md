@@ -3,7 +3,7 @@ Código usado no Apps Scripts para Auto preencher o Google Forms com base em dad
 
 👉 Aprenda como utilizar esse código e suas aplicações: https://youtu.be/LhBkDV5OejU
 
-👉 Curso completo de Google Planilhas do básico ao avançado: https://www.udemy.com/course/draft/6404769/?referralCode=2AAEA916E7FA12466554
+👉 Curso completo de Google Planilhas do básico ao avançado: [https://www.udemy.com/course/draft/6404769/?referralCode=2AAEA916E7FA12466554](https://www.udemy.com/course/google-planilhas-do-basico-ao-avancado/?referralCode=2AAEA916E7FA12466554)
 
 
 ```
