@@ -1,7 +1,7 @@
 # autofill-forms
 Código usado no Apps Scripts para Auto preencher o Google Forms com base em dados no Google Sheets
 
-👉 Aprenda como utilizar esse código e suas aplicações: https://youtu.be/LhBkDV5OejU
+👉 Aprenda como utilizar esse código e suas aplicações: https://youtu.be/6bhPR4STKL4
 
 👉 Curso completo de Google Planilhas do básico ao avançado: https://www.udemy.com/course/google-planilhas-do-basico-ao-avancado/?referralCode=2AAEA916E7FA12466554
 
